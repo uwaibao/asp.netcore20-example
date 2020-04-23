@@ -1,39 +1,18 @@
-# asp.net
+========================================
 
-#### 介绍
-{**以下是码云平台说明，您可以替换此简介**
-码云是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用码云实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+### 下载地址
 
-#### 软件架构
-软件架构说明
+[dotnet-sdk-2.1.201-win-x64](https://download.microsoft.com/download/C/7/D/C7DCA2DE-7163-45D1-A05A-5112DAF51445/dotnet-sdk-2.1.201-win-x64.exe)
 
+[DotNetCore.2.0.8-WindowsHosting](https://download.microsoft.com/download/E/F/7/EF7302FE-4F84-4529-9E3A-893450F76501/DotNetCore.2.0.8-WindowsHosting.exe)
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+[mysql-installer-community-5.7.22.1.msi](https://cdn.mysql.com//Downloads/MySQLInstaller/mysql-installer-community-5.7.22.1.msi)
 
 
-#### 码云特技
+[sqlite-tools-win32-x86-3240000.zip](https://www.sqlite.org/2018/sqlite-tools-win32-x86-3240000.zip)
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+[sqlite-dll-win64-x64-3240000](https://www.sqlite.org/2018/sqlite-dll-win64-x64-3240000.zip)
+
+
+
+========================================
